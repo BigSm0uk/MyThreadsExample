@@ -1,0 +1,11 @@
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\bin\Debug\net7.0\MyThreads.deps.json
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\bin\Debug\net7.0\MyThreads.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\bin\Debug\net7.0\MyThreads.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.AssemblyInfoInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.AssemblyInfo.cs
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.csproj.CoreCompileInputs.cache
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\refint\MyThreads.dll
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\MyThreads.pdb
+C:\Users\Denis\RiderProjects\MyThreadsExample\MyThreadsExample\MyThreads\obj\Debug\net7.0\ref\MyThreads.dll

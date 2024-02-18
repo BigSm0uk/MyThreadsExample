@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyThreadsExample/1.0.0": {
+        "dependencies": {
+          "MyThreads": "1.0.0"
+        },
+        "runtime": {
+          "MyThreadsExample.dll": {}
+        }
+      },
+      "MyThreads/1.0.0": {
+        "runtime": {
+          "MyThreads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyThreadsExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyThreads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
